@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+venv/
+env/
+.venv/
+
+# Databases
+*.sqlite3
+*.db
+
+# Environment variables
+.env
+
+# OS files
+Thumbs.db
